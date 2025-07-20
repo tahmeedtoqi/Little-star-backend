@@ -1,0 +1,10 @@
+[
+  {
+    "userId": 2,
+    "subject": "Math",
+    "marks": 85,
+    "grade": "B",
+    "updatedBy": 1,
+    "updatedAt": "2025-07-17T18:36:06.539Z"
+  }
+]
